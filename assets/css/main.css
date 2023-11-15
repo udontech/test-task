@@ -19,7 +19,7 @@
     margin-bottom: 5vw;
 }
 #header .fa-bell{
-    font-size: 1.5vw;
+    font-size: calc(0.94rem + 0.1vw);
 }
 
 #header #profile-div{
@@ -29,7 +29,7 @@
 
 #profile-div>span{
     margin-right: 0.75vw;
-    font-size: 1.05vw;
+   font-size: calc(0.66rem + 0.1vw);
 }
 
 .user-profile-pics{
@@ -45,7 +45,7 @@ nav ul{
 }
 
 nav ul li{
-    font-size: 1.20vw;
+    font-size: calc(0.75rem + 0.1vw);
 }
 
 nav ul li>a{
@@ -73,13 +73,13 @@ nav ul li>a> .nav-icon{
     align-items: center;
 }
 #cardate-div div span:first-child{
-    font-size: 1.88vw;
+   font-size: calc(1.175rem + 0.1vw);
     font-weight: 500;
     font-family: "poppins", sans-serif;
 }
 #cardate-div div span:last-child{
     line-height: 0.2;
-    font-size: 0.83vw;
+    font-size: calc(0.5rem + 0.1vw);
 }
 
 #cardate-div img{
